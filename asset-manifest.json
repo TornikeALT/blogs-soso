@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/blogs-soso/static/css/main.3ff2f71d.css",
+    "main.js": "/blogs-soso/static/js/main.53281556.js",
+    "index.html": "/blogs-soso/index.html",
+    "main.3ff2f71d.css.map": "/blogs-soso/static/css/main.3ff2f71d.css.map",
+    "main.53281556.js.map": "/blogs-soso/static/js/main.53281556.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ff2f71d.css",
+    "static/js/main.53281556.js"
+  ]
+}
