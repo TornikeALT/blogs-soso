@@ -1,0 +1,14 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  padding: 5rem;
+  font-size: 30px;
+}
+.formwrapper {
+  display: flex;
+  justify-content: center;
+}
+.form select {
+  font-size: 20px;
+}

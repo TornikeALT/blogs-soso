@@ -1,0 +1,13 @@
+.listwrapper {
+  margin-left: 40%;
+  padding: 4rem;
+}
+.lists {
+  text-decoration: none;
+}
+.listwrapper h2,
+a {
+  text-decoration: none;
+  font-family: 'DynaPuff', cursive;
+  font-size: 30px;
+}
